@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'AlexisWhite'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5df184a2826a4664801e984bc58f0e60 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_eb035fbcfb63414c9476bfd81b519739 }}
